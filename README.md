@@ -1,6 +1,3 @@
-# task3-sbe403a_f20_task3_15
-# task3-sbe403a_f20_task3_15 created by GitHub Classroom
+### The car was  implemented using raspberry pi as a microcontroller and raspberry pi camera for taking photos to send it to our socket server which do image processing (lane line detection and obstacle detection) then send an order to raspberry pi to make the car move in the right direction.Also java android mobile app as a remot control
 
-###  we implemented our car using raspberry pi as a microcontroller and raspberry pi camera for taking photos to send it to our socket server which do image processing (lane line detection and obstacle detection) then send an order to raspberry pi to make the car move in the right direction.Also java android mobile app as a remot control
-
-###  link to our video :  https://www.youtube.com/watch?v=zxANVN0twos
+###  link to  video result :  https://youtu.be/0G7foestpsw
